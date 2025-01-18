@@ -1,29 +1,27 @@
 import streamlit as st
 from components.pdf_processing import read_pdf, chunk_text
 from components.vector_store import create_vectorstore
-from components.llm import VietnameseLLM, chatbot_response
-from components.utils import show_uploaded_image
+from components.llm import CustomLLM, chatbot_response
 
-# Đảm bảo gọi set_page_config đầu tiên
+# Cấu hình Streamlit
 st.set_page_config(page_title="ChatBot", layout="wide")
 
-# Tạo đối tượng LLM và vector store từ session_state
+# Khởi tạo LLM trong session state
 if 'llm' not in st.session_state:
     with st.spinner('Đang khởi tạo mô hình...'):
-        st.session_state.llm = VietnameseLLM()
+        model_file = r"D:\Nam 3\API\vinallama-7b-chat_q5_0.gguf"
+        st.session_state.llm = CustomLLM(model_file)
 
 if 'vectorstore' not in st.session_state:
     st.session_state.vectorstore = None
 
-st.title("Chào mừng bạn tới với chatbot")
+st.markdown("<h1 style='text-align: center;'><i class='fa fa-comments'></i> Chào mừng bạn tới với Chatbot</h1>", unsafe_allow_html=True)
 
-# Sidebar: Tải lên file PDF và hiển thị ảnh
+
+# Sidebar: Tải lên file PDF
 with st.sidebar:
     st.subheader("Tải lên file PDF")
     pdf_file = st.file_uploader("Chọn file PDF", type="pdf")
-    image_file = st.file_uploader("Chọn hình ảnh", type=["png", "jpg", "jpeg"])
-    if image_file:
-        show_uploaded_image(image_file)
 
     if pdf_file:
         with st.spinner('Đang xử lý file PDF...'):
@@ -32,10 +30,10 @@ with st.sidebar:
                 chunks = chunk_text(context)
                 st.session_state.vectorstore = create_vectorstore(chunks)
                 if st.session_state.vectorstore:
-                    st.success("Đã xử lý file PDF thành công!")
+                    st.success("Đã xử lý thành công!")
 
-# Khối chatbot: Đặt câu hỏi
-st.subheader("Đặt câu hỏi về nội dung PDF:")
+# Khối chatbot
+st.subheader("Hãy đặt câu hỏi về nội dung PDF:")
 if 'messages' not in st.session_state:
     st.session_state.messages = []
 
@@ -57,4 +55,3 @@ if prompt := st.chat_input("Nhập câu hỏi của bạn"):
             st.markdown(response)
 
     st.session_state.messages.append({"role": "assistant", "content": response})
-# _____________________
