@@ -1,0 +1,247 @@
+SỐT XUẤT HUYẾT DENGUE
+I. ĐẠI CƯƠNG
+Định nghĩa: sốt xuất huyết dengue (Dengue Haemorrhagic Fever) là một bệnh truyền nhiễm
+cấp tính do virus Dengue gây ra. Đặc điểm lâm sàng chủ yếu của sốt xuất huyết dengue là sốt, xuất
+huyết và thoát huyết tương, có thể dẫn tới sốc giảm thể tích tuần hoàn, rối loạn đông máu, suy tạng,
+nếu không được chẩn đoán và xử trí kịp thời dễ dẫn đến tử vong.
+Quan niệm hiện nay về nhiễm virus Dengue: bệnh cảnh lâm sàng nhiễm Dengue có thể thay
+đổi từ người này sang người khác, từ không triệu chứng đến sốc, xuất huyết nặng và có trường hợp
+tử vong. Diễn tiến của nhiễm virus Dengue là không thể đoán trước. Cho đến thời điểm hiện tại
+vẫn chưa có biện pháp điều trị ngăn chặn bệnh diễn tiến nặng, chưa có điều trị đặc hiệu.
+II. DIỄN BIẾN LÂM SÀNG SỐT HUYẾT DENGUE
+III. CHẨN ĐOÁN SỐT XUẤT HUYẾT DENGUE
+1. Chẩn đoán lâm sàng: Bệnh có 3 mức độ
+1.1. Sốt xuất huyết Dengue
+Sống hoặc đến vùng dịch tễ, sốt xuất huyết dengue, sốt cao đột ngột liên tục từ 2-7 ngày, và
+có ít nhất 2 trong các dấu hiệu sau:
+- Nhức đầu, chán ăn, buồn nôn
+- Da sung huyết, phát ban
+- Đau cơ, đau khớp, nhức 2 hố mắt- Bạch cầu máu thường giảm, số lượng tiểu cầu bình thường hoặc hơi giảm, hematocrit bình
+thường hoặc tăng.
+1.2. Sốt xuất huyết Dengue có dấu hiệu cảnh báo
+Bao gồm triệu chứng lâm sàng của sốt xuất huyết dengue, kèm theo các dấu hiệu cảnh báo
+sau:
+- Vật vã, li bì, lừ đừ
+- Đau bụng vùng gan, ấn đau vùng gan
+- Gan to > 2cm
+- Nôn ói nhiều
+- Xuất huyết niêm mạc
+- Tiểu ít
+- Hct tăng cao, tiểu cầu giảm nhanh chóng.
+Những bệnh nhân sốt xuất huyết có dấu hiệu cảnh báo cần theo dõi chặt chẽ để phát hiện biến
+chứng nặng sớm và xử trí kịp thời.
+1.3. Sốt xuất huyết dengue nặng: khi người bệnh có một trong các biểu hiện sau:
+- Sốc sốt xuất huyết dengue: thường xảy ra vào ngày thứ 3-7 của bệnh, biểu hiện bởi các triệu
+chứng như vật vã, bứt rứt hoặc li bì, lạnh đầu chi, da lạnh ẩm, mạch nhanh nhỏ, huyết áp kẹp (hiệu
+số huyết áp tối đa và tối thiểu < 20mmHg) hoặc tụt huyết áp hoặc không đo được huyết áp, tiểu ít.
+Sốc sốt xuất huyết dengue được chia làm 2 mức độ để bù dịch:
++ Sốc sốt xuất huyết dengue: có dấu hiệu suy tuần hoàn, mạch nhanh nhỏ, huyết áp kẹt hoặc
+tụt, kèm theo các triệu chứng như da lạnh, ẩm, bứt rứt hoặc vật vã li bì.
++ Sốc sốt xuất huyết dengue nặng: sốc mạch, mạch nhỏ khó bắt, huyết áp không đo được.
+- Xuất huyết nặng:
++ Chảy máu cam nặng (cần nhét gạc vách mũi), rong kinh nặng, xuất huyết trong cơ phần
+mềm, xuất huyết tiêu hóa và nội tạng.
++ Xuất huyết nặng cũng có thể xảy ra ở người bệnh dùng các thuốc kháng viêm như
+acetylsalicylic acid (aspirin), ibuprofen hoặc dùng corticoid, tiền sử loét dạ dày, tá tràng, viêm gan
+mạn.
+- Suy cơ quan:
++ Suy gan cấp: men gan AST, ALT > 100 U/L
++ Suy thận cấp
++ Rối loạn tri giác (sốt xuất huyết Dengue thể não)
++ Viêm cơ tim, suy tim, suy hô hấp,...
+2. Chẩn đoán căn nguyên virus Dengue
+2.1. Xét nghiệm huyết thanh
+- Test chẩn đoán nhanh:
++ Tìm kháng nguyên NS1: dương tính cao nhất vào 2-3 ngày đầu của bệnh, sau đó test sẽ
+giảm dần độ nhạy (độ nhạy 77–80,5%, độ đặc hiệu 100%).
++ Tìm kháng thể IgM/IgG từ ngày thứ 5 của bệnh trở đi, test nhanh này có độ nhạy 21-99%
+và độ đặc hiệu 77-99%.
+-Xét nghiệm ELISA:
++ Tìm kháng thể IgM: có thể phát hiện từ ngày thứ 3 của bệnh với độ nhạy 50%, từ ngày thứ
+5 của bệnh độ nhạy tăng lên từ 80-99%.
++ Tìm kháng thể IgG: xét nghiệm 2 lần cánh nhau 1 tuần tìm hiệu giá kháng thể, được coi là
+dương tính khi hiệu giá kháng thể IgG tăng gấp 4 lần.
+2.2. Xét nghiệm PCR, phân lập virus
+Có độ đặc hiệu rất cao nhưng thời gian chờ kết quả kéo dài và không phải cơ sở y tế nào cũng
+thực hiện được.3. Chẩn đoán phân biệt
+Giai đoạn sốt
+Hội chứng cúm: Cúm, sởi, viêm hô hấp.
+Các bệnh có rash: Rubella, sởi, sốt phát ban siêu vi, sốt mò.
+Các bệnh có tiêu chảy: Rota virus, nhiễm khuẩn đường ruột khác.
+Bệnh có biểu hiện thần kinh: Viêm màng não, viêm não...
+Giai đoạn nặng
+Bệnh nhiễm khuẩn: sốt rét, leptospirosis, thương hàn, nhiễm khuẩn huyết, sốc nhiễm khuẩn,
+viêm gan siêu vi,...
+Bệnh lí ác tính khác: Leucemia cấp, hội chứng thực bào máu
+Khác: viêm ruột thừa, viêm ổ bụng, viêm túi mật, hôn mê tiểu đường, bệnh ban đỏ hệ thống,
+xuất huyết giảm tiểu cầu,...
+IV. ĐIỀU TRỊ SỐT XUẤT HUYẾT DENGUE
+Sơ đồ 2. Phân nhóm xử trí – điều trị người bệnh sốt xuất huyết Dengue1. Điều trị sốt xuất huyết Dengue
+Phần lớn trường hợp đều trị ngoại trú, theo dõi tại y tế cơ sở, chủ yếu là điều trị triệu chứng
+và phải theo dõi chặt chẽ phát hiện sớm sốc xảy ra để xử trí kịp thời.
+- Điều trị triệu chứng:
++ Nếu sốt cao ≥ 390C, cho thuốc hạ nhiệt, nới lỏng quần áo và lau mát bằng nước ấm.
++ Thuốc hạ nhiệt chỉ dùng paracetamol, liều 10-15mg/kg cân nặng/lần, cách nhau mỗi 4-6
+giờ (tổng liều không quá 60mg/kg cân nặng 24 giờ. Không dùng aspirin (acetylsalicylic acid),
+analgin, ibuprofen để điều trị vì có thể gây xuất huyết, toan máu.
+- Bù dịch bằng đường uống: khuyến khích uống nước oresol, nước trái cây, nước sôi để nguội
+hoặc nước cháo loãng với muối.
+2. Điều trị sốt xuất huyết Dengue có dấu hiệu cảnh báo
+- Người bệnh được nhập viện điều trị
+- Khuyến khích uống nước, chỉ truyền dịch khi nào bệnh nhân không uống được, nôn nhiều,
+có dấu hiệu mất nước, Hct tăng cao.
+- Đánh giá lâm sàng.
+- Theo dõi sát các triệu chứng, bilan nước nhập khẩu, Hct, TC, BC, chức năng gan thận.
+- Xét nghiệm khác (chức năng gan thận, ion đồ)
+- Duy trì huyết áp bằng lượng dịch truyền tối thiểu (24-48 g) để đẩm bảo lượng nước tiểu 0,5
+mL/kg/giờ.
+Đòi hỏi quan sát phát hiện và xử trí kịp thời các dấu hiệu bệnh nặng.
+Sốt xuất huyết dengue cảnh báo có chỉ định truyền dịch, truyền tĩnh mạch ban đầu (Ringer
+lactat hoặc NaCl 0,9% 6-7mL/kg cân nặng/giờ, truyền trong 1-3 giờ.
+Sơ đồ 3. Truyền dịch trong sốt xuất huyết Dengue có dấu hiệu cảnh báo3. Điều trị sốt xuất huyết Dengue nặng
+Người bệnh phải được điều trị tại đơn vị hồi sức tích cực.
+3.1. Điều trị sốc sốt xuất huyết Dengue
+- Nguyên tắc:
++ Khám hỏi kỹ tiền sử bệnh nhân, chẩn đoán đúng sốc do thoát huyết tương, tìm và loại trừ
+nguyên nhân gây sốc khác.
++ Phải thay thế nhanh chóng lượng huyết thanh đã mất cân bằng Ringer lactac hoặc dung
+dịch NaCl 0,9%, truyền TM tốc độ 15-20mL/kg cân nặng/giờ.
++ Duy trì lượng dịch tiếp tục bị mất.
+- Mục tiêu: giảm nhịp tim, cải thiện huyết áp, tăng cường độ mạch, chi ấm và hồng lại, CRT
+(thời gian hồi phục tuần hoàn mao mạch đầu chi) < 2, nước tiểu > 0,5mL/kg/giờ.
+- Chuẩn bị: các loại dịch truyền: Ringer lactac, Natri clorua 0,9%. Dung dịch cao phân tử
+gồm/; Dextran 40 hay 70, Hydroxyethyl starch (HES).
+Sơ đồ 4. Truyền dịch chống sốc sốt xuất huyết Dengue ở người lớnChú thích
+Hai lần dùng CPT điều trị tái sốc có thể liền nhau hoặc cách nhau bởi các giai đoạn truyền
+LR (1), (2), (3).
+Truyền máu khi mạch tăng, huyết áp kẹp hoặc thấp, chi mát, mặc dù Hct > 35%, có hoặc
+chưa xuất huyết trên lâm sàng.
+RL: Dung dịch Lactate Ringer
+HA: Huyết áp; M: Mạch
+Hct: Hematcrit
+CPT: Cao phân tử
+Các lưu ý:
+- Hạn chế tối đa việc sử dụng dung dịch cao phân tử vì dễ gây rối loạn đông máu và suy tạng.
+Dung dịch gelatin dễ gây dị ứng. Số lượng CPT không dùng quá 1000mL với người lớn.
+- Ngưng truyền dịch 24h sau sốc nếu bệnh nhân cải thiện (nên lưu kim TM).
+- Bệnh nhân đã được chống sốc từ tuyến trước, vẫn còn sốc khi chuyển lên tuyến trên cần
+chống sốc như một trường hợp tái sốc bằng dung dịch CPT, lưu ý số lượng dịch truyền ở tuyến
+trước để tính lượng dịch sắp đưa vào.
+- Chú ý quá tải dịch ở giai đoạn tái hấp thu (biểu hiện bằng huyết áp, mạch bình thường và
+hematocrit giảm), theo dõi tình trạng tim, phổi (phù, suy hô hấp, OAP,...) để cân nhắc chỉ định lợi
+tiểu.
+- Nếu huyết áp kẹt, hoặc thấp trở lại sau thời gian ổn định, cần phân biệt các nguyên nhân:
++ Tái sốc do không bù lượng dịch tiếp tục thoát mạch
++ Xuất huyết nội
++ Quá tải dịch truyền
++ Hạ đường huyết
+- Cơ địa tim bẩm sinh, bệnh tim phổi mạn: cần đặt CVP sớm để chống sốc có hiệu quả. Thận
+trọng khi tiến hành thủ thuật tại các vị trí khó cầm máu như tĩnh mạch cổ, tĩnh mạch dưới đòn.
+- Cơ địa béo phì: lượng dịch chống sốc/kg cân nặng lí tưởng không khác cơ địa bình thường
+lượng dịch chống sốc/kg cân nặng thực tế thấp hơn. Cần tính trọng lượng lí tưởng khi chống sốc:
++ Nữ: 45,5 kg + 0,91 (chiều cao – 152,4) cm.
++ Nam: 50,0 kg + 0,91 (chiều cao – 152,4) cm.
+Theo dõi người bệnh sốc sốt xuất huyết Dengue:
+- Giữ ấm
+- Theo dõi mạch, nhiệt huyết áp, nhịp thở 15-30 phút/lần.
+- Đo Hct mỗi 1-2 giờ trong 6 giờ đầu của sốc, sau đó đo mỗi 4 giờ cho đến khi sốc ổn định.
+- Ghi lượng nước xuất nhập trong 24 giờ
+- Theo dõi lượng nước tiểu
+- Theo dõi tình trạng thoát dịch vào màng phổi, màng bụng, màng tim
+- Theo dõi tình trạng điện giải và thăng bằng kiềm –toan.
+3.2. Điều trị xuất huyết nặng và rối loạn đông máu (RLĐM)
+- Chỉ định truyền hồng cầu lắng/máu tươi:
++ Đang xuất huyết nặng, kéo dài (chảy máu cam nặng phải nhéc gạc mũi, rong kinh nặng,
+xuất huyết trong cơ và phần mềm, xuất huyết tiêu hóa và nội tạng).
++ Sốc không cải thiện sau khi bù dịch 40-60mL/kg
++ Hct < 35% hoặc Hct giảm nhanh < 20% so với ban đầu (mặc dù còn > 35%). Mục tiêu cần
+đạt: Hct 35-40% (nên dùng hồng cầu lắng nếu nghi ngờ có quá tải).
++ Vitamin K 1mg/kg/ngày (max 10 mg) TMC x 3 ngày.
+1
++ Điều trị/dự phòng xuất huyết tiêu hóa: ức chế H : Ranitidin 2mg/kg x 3 lần/ngày TM, hoặc
+2
+PPI: Omeprazol 1mg/kg x 2 lần/ngày (TMC).
+- Chỉ định truyền tiểu cầu:+ Xuất huyết nặng + TC < 50.000/mm3.
++ Tiểu cầu < 5000/mm3 9 trừ ca cấp cứu
++ Mục tiêu cần đạt: tiểu cầu > 30000/mm3.
+- Chỉ định xét nghiệm chức năng đông máu toàn bộ:
++ Trước khi làm thủ thuật (chọc dò màng bụng, màng phổi...)
++ Sốc nặng kéo dài
++ Tổn thương cơ quan nặng.
+- Trị số bất thường của rối loạn đông máu:
++ TC ≤ 100.000/mm3
++ PT/PT chứng ≥ 1,2 hoặc aPTT/aPTT chứng ≥ 1,2; Fibrinogen < 1g/L
+- Tiêu chí gợi ý chẩn đoán DIC:
++ Tiểu cầu < 100.000/mm3; PT/PT chứng ≥ 1,2 hoặc aPTT/aPTT chứng ≥ 1,2.
++Fibrinogen ≤ 1,5 D.
++ D-dimer > 2 mcg/mL.
+- Chỉ định huyết thanh tươi đông lạnh:
++ Đang xuất huyết nặng + rối loạn đông máu.
++ Rối loạn đông máu + chuẩn bị làm thủ thuật.
++ Truyền máu toàn phần/hồng cầu lắng khối lượng lớn. Dùng truyền TM 10-15 mL/kg.
+Mục tiêu cần chẩn đoán: PT/PT chứng < 1,5.
+- Chỉ định kết tủa lạnh: xuất huyết + fibrinogen < 1g/L.
+3.3. Điều trị đa tạng nặng
+- Suy hô hấp
++ Thở oxy cannula 3-6 L/phút.
++ Có quá tải tuần hoàn (ho, tĩnh mạch cổ nổi, ran phổi, CVP cao), ngưng truyền dịch, nằm
+đầu cao, thở NCPAP ± dobutamin, lợi tiểu.
++ Không có quá tải tuần hoàn:
+ Điều chỉnh kiềm toan
+ Tràn dịch màng phổi/tràn dịch màng bụng nhiều: chọc bớt dịch.
+ ARDS: thở NCPAP, nội khí quản/thở máy.
+- Tổn thương gan, suy gan cấp
++ Bảo đảm hô hấp và tuần hoàn
++ Kiểm soát hạ đường huyết: giữ đường huyết 80-120 mg.
++ Giảm amoniac máu: thụt tháo bằng nước muối sinh lí ấm, lactulose, metronidazol,
+neomycin
++ Dùng các thuốc hỗ trợ gan
++ Không dùng paracetamol liều cao vì gây độc tính cho gan.
+- Suy thận cấp: điều trị bảo tồn và chạy thận nhân tạo khi có chỉ định
++ Chỉ định chạy thận nhân tạo trong sốt xuất huyết suy thận cấp
+ Tăng kali máu nặng > 7mEq/L.
+ Rối loạn natri máu nặng đang tiến triển ([Na] > 160 hay < 115mmol/L).
+ Toan hóa máu nặng không cải thiện với bù Bicarbonate (pH < 7,1).
+ Hội chứng ure huyết cao: Rối loạn tri giác, nôn, xuất huyết tiêu hóa, urê máu > 200mg%
+và hoặc creatinine trẻ nhỏ > 1,5mg% và trẻ lớn > 2mg%.
++ Lọc máu liên tục
+ Suy đa tạng kèm suy thận cấp
+ Suy thận cấp có huyết động không ổn định.
+- Sốt xuất huyết Dengue thể não, rối loạn tri giác, co giật Bảo đảm hô hấp và tuần hoàn.
++ Chống co giật: diazepam 0,2-0,3mg/kg TMC hoặc midazolam 0,1-0,2mg/kg TMC. Không
+dùng phenobarbital.+ Chống phù não: mannitol 20%, 2,5mL/kg/30 phút x 3-4 lần/ngày.
+- Viêm cơ tim, suy tim.
++ Khi sốc kéo dài, cần phải đo CVP để quyết định thái độ xử trí.
++ Nếu đã truyền dịch đầy đủ mà huyết áp vẫn chưa lên và CVP đã trên 10 cm nước thì truyền
+TM:
+ Dopamin, liều lượng 5-10 mcg/kg cân nặng/phút.
+ Nếu đã dùng dopamin liều 10mcg/kg cân nặng/phút mà huyết áp vẫn chưa lên thì nên phối
+hợp dobutamin 5-10 mcg/kg cân nặng/phút.
+- Điều trị khác:
++ Điều chỉnh rối loạn điện giải:
+ Natri máu < 120mmol/L + rối loạn tri giác: bù NaCl 3% 6-10mg/kg truyền TM trong 1
+giờ.
+ Natri máu 120-125mmol/L ± rối loạn tri giác: bù NaCl 3% 6-10mg/kg truyền TM trong 2-
+3 giờ.
+ Hạ kali máu: bù bằng đường uống hoặc pha truyền TM.
++ Toan chuyển hóa: Natribicarbonat 1-2mEq/kg truyền TM.
+V. TIÊU CHUẨN RA VIỆN
+- Hết sốt 2 ngày, tỉnh táo
+- Mạch, huyết áp bình thường
+- Số lượng tiểu cầu > 50.000/mm3.
+VI. PHÒNG BỆNH
+- Vắc xin phòng bệnh: tiêm phòng 3 mũi cách nhau mỗi 6 tháng, có hiệu quả trong 2 năm.
++ Chỉ định: đối tượng 9-45 tuổi hoặc 9-60 tuổi (tùy sự cấp phép) nằm trong vùng dịch tễ sốt
+xuất huyết.
++ Chống chỉ định:
+ Tiền căn dị ứng với bất cứ thành phần nào của vacin Dengue trước đó hoặc dị ứng vacin
+có chứa thành phần tương tự.
+ Suy giảm miễn dịch bẩm sinh hoặc mắc phải.
+ Nhiễm HIV có triệu chứng suy giảm chức năng miễn dịch.
+ Phụ nữ có thai hoặc cho con bú.
+- Thực hiện công tác giám sát, phòng chống sốt xuất huyết Dengue theo quy định của Bộ Y
+tế.
+- Biện pháp phòng bệnh chủ yếu là kiểm soát côn trùng trung gian truyền bệnh tránh muỗi
+đốt, diệt bọ gậy, diệt muỗi trưởng thành, vệ sinh môi trường loại bỏ ổ chứa nước đọng.
+TÀI LIỆU THAM KHẢO
+Phác đồ điều trị Bệnh viện Chợ Rẫy, phần Nội khoa năm 2018.
