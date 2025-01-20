@@ -9,7 +9,7 @@ st.set_page_config(page_title="ChatBot", layout="wide")
 # Khởi tạo LLM trong session state
 if 'llm' not in st.session_state:
     with st.spinner('Đang khởi tạo mô hình...'):
-        model_file = r"D:\Nam 3\API\vinallama-7b-chat_q5_0.gguf"
+        model_file = r"D:\Doan\askpdf\models\vinallama-7b-chat_q5_0.gguf"
         st.session_state.llm = CustomLLM(model_file)
 
 if 'vectorstore' not in st.session_state:
